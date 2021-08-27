@@ -31,10 +31,10 @@ a {
   font-weight: 600;
 }
 
-a:hover{
-    background: #66fcf1;
+a:hover {
+  background: #66fcf1;
 
-    color: #10151b;
+  color: #10151b;
   text-decoration: none;
   text-decoration: none;
   font-size: 16px;
@@ -42,9 +42,6 @@ a:hover{
   letter-spacing: 0.25em;
   text-decoration: solid;
   font-weight: 600;
-
-
-
 }
 
 .center {
@@ -52,6 +49,12 @@ a:hover{
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+.cent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 30px;
 }
 
 .btn {
